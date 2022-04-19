@@ -1,6 +1,26 @@
 body {
-    background-image: url('linuxbackground.jpg');
+    background-color: black;
     background-repeat: no-repeat;
     background-attachment: fixed; 
     background-size: 100% 100%;
+
+    font-family: 'Times New Roman', Times, serif;
+    color: #DCD9CF;
+    margin: 0%;
+    text-align: center
+}
+.title{
+    font-size: 25px;
+    color: #A4DBCC;
+}
+
+.profilepicture{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px
+}
+
+.center_bottom{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
 }
